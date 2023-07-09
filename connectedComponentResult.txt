@@ -1,0 +1,50 @@
+Enter the value of n
+6
+The binary matrix is :
+1 0 1 1 1 1 
+0 0 1 1 0 1 
+0 1 1 0 0 0 
+0 0 1 0 1 1 
+0 0 0 1 1 1 
+1 0 0 0 1 1 
+The neighbours of 0 are : 
+The neighbours of 1 are : 
+The neighbours of 2 are : 8 3 
+The neighbours of 3 are : 9 2 4 
+The neighbours of 4 are : 3 5 
+The neighbours of 5 are : 11 4 
+The neighbours of 6 are : 
+The neighbours of 7 are : 
+The neighbours of 8 are : 2 14 9 
+The neighbours of 9 are : 3 8 
+The neighbours of 10 are : 
+The neighbours of 11 are : 5 
+The neighbours of 12 are : 
+The neighbours of 13 are : 14 
+The neighbours of 14 are : 8 20 13 
+The neighbours of 15 are : 
+The neighbours of 16 are : 
+The neighbours of 17 are : 
+The neighbours of 18 are : 
+The neighbours of 19 are : 
+The neighbours of 20 are : 14 
+The neighbours of 21 are : 
+The neighbours of 22 are : 28 23 
+The neighbours of 23 are : 29 22 
+The neighbours of 24 are : 
+The neighbours of 25 are : 
+The neighbours of 26 are : 
+The neighbours of 27 are : 28 
+The neighbours of 28 are : 22 34 27 29 
+The neighbours of 29 are : 23 35 28 
+The neighbours of 30 are : 
+The neighbours of 31 are : 
+The neighbours of 32 are : 
+The neighbours of 33 are : 
+The neighbours of 34 are : 28 35 
+The neighbours of 35 are : 29 34 
+0
+1
+2
+3
+4
